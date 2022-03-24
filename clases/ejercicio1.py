@@ -4,4 +4,4 @@ class libro():
         self.autor=autor
         self.editorial=editorial
         self.isbn=isbn
-self.fechadepublicacion=fechadepublicacion
+        self.fechadepublicacion=fechadepublicacion
