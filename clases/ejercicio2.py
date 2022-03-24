@@ -7,3 +7,5 @@ class mamifero(animal):
         self.mamifero=mamifero
 class oviparo(mamifero):
     def __init__(self, tipo, mamifero, oviparo):
+        super().__init__(tipo, mamifero)
+        self.oviparo=oviparo
