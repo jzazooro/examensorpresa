@@ -1,0 +1,1 @@
+class animal(self, tipo):
