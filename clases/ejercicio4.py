@@ -22,6 +22,7 @@ class cuentabancaria():
         if ingreso > 0:
             saldo=saldo+ingreso
             print("la operacion se ha realizado con exito, su saldo es: ", saldo)
+    def transferirdinero(saldo):
 
 
     
